@@ -1,0 +1,15 @@
+{
+    "name": "silverstripe/required-field-validator",
+    "description": "Adds required field validation to dataobjects when used outside of the cms|controller|form context",
+    "type": "silverstripe-module",
+    "require": {
+        "silverstripe/framework": "^4@dev"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Franco Springveldt",
+            "email": "franco@silverstripe.com"
+        }
+    ]
+}
