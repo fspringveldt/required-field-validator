@@ -1,7 +1,7 @@
 {
     "name": "silverstripe/required-field-validator",
     "description": "Adds required field validation to dataobjects when used outside of the cms|controller|form context",
-    "type": "silverstripe-module",
+    "type": "silverstripe-vendormodule",
     "require": {
         "silverstripe/framework": "^4@dev"
     },
